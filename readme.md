@@ -13,6 +13,4 @@ npm run dev
 And it should start and open server automatically.
 If it doesn't open the server in your browser the LocalHost server should be written on your terminal. 
 🚀 🚀 🚀
-
-or you can view my code from [here](https://webgl-text-deployment.vercel.app)
 ```
