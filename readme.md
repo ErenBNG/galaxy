@@ -2,7 +2,7 @@
 
 First if you don't have [NodeJS](https://nodejs.org/en/) you should download it for using NPM. 
 
-Then go into your IDE and open terminal. Type:
+Then go into your IDE and open terminal.
 # and
 npm install
 
